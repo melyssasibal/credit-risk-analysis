@@ -32,21 +32,15 @@ The purpose of this project is to employ difference techniques to train and eval
 
 ## Summary
 
-|  | Balanced Accuracy Score | Precision |  |  | Recall |  |  |
+|  | Balanced Accuracy Score | Precision | Recall |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | High Risk | Low Risk | Avg | High Risk | Low Risk | Avg |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | ROS | 0.66 | 0.01 | 1.00 | 0.99 | 0.74 | 0.58 | 0.74 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | SMOTE | 0.65 | 0.01 | 1.00 | 0.99 | 0.62 | 0.68 | 0.68 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Under Sampling | 0.65 | 0.01 | 1.00 | 0.99 | 0.69 | 0.40 | 0.40 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | SMOTEEN | 0.54 | 0.01 | 1.00 | 0.99 | 0.72 | 0.57 | 0.57 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Balanced Random Forest | 0.78 | 0.04 | 1.00 | 0.99 | 0.67 | 0.91 | 0.91 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | AdaBoost | 0.69 | 0.85 | 1.00 | 1.00 | 0.38 | 1.00 | 1.00 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 
