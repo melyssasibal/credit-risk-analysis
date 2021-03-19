@@ -42,5 +42,5 @@ The purpose of this project is to employ difference techniques to train and eval
 | Balanced Random Forest | 0.78 | 0.04 | 1.00 | 0.99 | 0.67 | 0.91 | 0.91 |
 | AdaBoost | 0.69 | 0.85 | 1.00 | 1.00 | 0.38 | 1.00 | 1.00 |
 
-
+Through this comparison of models, the results support the Balanced Random Forest Classifier as the most fitting model to predict loan risk. This model returned the highest balanced accuracy score at 0.78, in addition to the highest recall average of 0.91. Therefore, this illustrates that this model will be able to flag a higher porportion of high risk loans, compared to the other models. 
 
