@@ -32,7 +32,7 @@ The purpose of this project is to employ difference techniques to train and eval
 
 ## Summary
 
-|  | Balanced Accuracy Score | Precision | Recall |
+|  | Balanced Accuracy Score | Precision |  |  | Recall |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | High Risk | Low Risk | Avg | High Risk | Low Risk | Avg |
 | ROS | 0.66 | 0.01 | 1.00 | 0.99 | 0.74 | 0.58 | 0.74 |
